@@ -1,7 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
 p {
   background-color: pink;
   padding: 10px;
   width: 500px;
-  border: 50px black;
+  border: 3px solid black;
 
 }
+/* Color Palette:
+Light Shades: #Light pink;
+Light Accent: #White;
+Main Brand Color: #Pink;
+Dark Accent: #Sage green;
+Dark Shades: #Black;
+*/
