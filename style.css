@@ -18,7 +18,7 @@ ul{
   color: black;
   padding: 10px;
   padding-left: 25px;
-  width: 800px;
+  width: 600px;
 }
 ol{
   background-color: rgb(80, 168, 80);
@@ -54,11 +54,18 @@ header {
   border-radius: 50px;
 }
 
+.columns {
+  float: left;
+  width: 33.3;
+  margin: 12px;
+}
+
+
 /* Color Palette:
 Light Shades: #Light pink;
 Light Accent: #White;
-Main Brand Color: #Pink;
-Dark Accent: #Sage green;
+Main Brand Color: #(169, 235, 169);
+Dark Accent: #(80, 168, 80);;
 Dark Shades: #Black;
 */
 
